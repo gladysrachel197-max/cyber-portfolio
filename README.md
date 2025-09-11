@@ -12,6 +12,10 @@
  - **Python Automation Script** - Checking password strength
  - **Final Cybersecurity Portfoloi Lab** - End to End Security case Study
 
+   ## Projects
+   - [Final Report](Final-Portfolio-Lab/final_report.pdf)
+   - [Incident Response Report](Incident-Response-Plan/report.pdf)
+
 ## 📞 Connect with me 
 -  [Linkedin] (https://www.linkedin.com/)
 -  Email: *gladysrachel197@gmail.com*
